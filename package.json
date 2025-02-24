@@ -1,0 +1,23 @@
+{
+  "name": "Async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianChilito/Async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianChilito/Async-landing/issues"
+  },
+  "homepage": "https://github.com/CristianChilito/Async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
